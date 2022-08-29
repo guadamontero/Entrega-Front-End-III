@@ -10,8 +10,9 @@ Aquí pueden ver una demo del funcionamiento de la aplicación.
 
 # Pasos para ejecutar esta app:
 
-`npm install`
-`npm start`
+### `npm install`
 
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
