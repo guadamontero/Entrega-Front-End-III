@@ -13,7 +13,8 @@ Aquí pueden ver una demo del funcionamiento de la aplicación.
 ### `npm install`
 
 ### `npm start`
->>>>>>> 71bab48c5b7baa122631de716723fe0c1e8e18be
+
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
